@@ -56,10 +56,11 @@ This project helps identify key factors driving employee turnover — including 
 ---
 
 ## 🧑‍💻 Project Author
-**Somi D.**  
+**Somitro Das.**  
 Power BI | Data Analytics | Finance Reporting Enthusiast  
 📍 India  
 
 ---
 
 ⭐ *If you found this project helpful, please star the repository and share feedback!*
+
