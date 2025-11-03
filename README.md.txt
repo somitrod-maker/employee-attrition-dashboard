@@ -1,0 +1,3 @@
+# 🧠 Employee Attrition & Performance Dashboard
+...
+### ⭐ If you liked this dashboard, don’t forget to star the repo on GitHub!
